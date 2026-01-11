@@ -4,6 +4,7 @@
 Name  : 
         Awol          
         Tsion Bizuayehu  GSR/9235/17
+        ##
 A two-stage pragmatic analysis pipeline:
 1. Speech Act Classification (statement, question, directive)
 2. Natural Language Inference (ENTAILMENT, CONTRADICTION, NEUTRAL)
