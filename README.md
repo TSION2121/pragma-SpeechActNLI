@@ -12,7 +12,7 @@ Name  :
 ## Structure
 - `src/` : source code modules
 - `data/` : datasets (Switchboard subset, KB facts)
-- `notebooks/` : Jupyter experiments
+- `notebooks/` : Jupyter experiments while the final document is notebooks/Project_3_NLP.ipynb
 - `tests/` : unit tests
 
 
